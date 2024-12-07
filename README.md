@@ -1,5 +1,6 @@
 # my_first
 this is my first git repository
 <br>
-author-laxmi tudu 
+author-laxmi laxmi
+
 
